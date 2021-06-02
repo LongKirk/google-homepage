@@ -1,0 +1,50 @@
+
+#Top-left   {
+    position: fixed;
+    top:  0%;
+    right: auto;
+    bottom: auto;
+    left:   85%;
+}
+
+#Main-Frame {
+    position: relative;
+    margin: center;
+    top: 150px;
+    right: 200px;
+    bottom: 50%;
+    left: 500px;
+
+    
+}
+#About  {
+    position: fixed;
+    width: 100%;
+    top: auto;
+    right: auto;
+    bottom: 0%;
+    left: 0%;
+}
+.Google-Logo    {
+    width: 272px;
+    height: 92px;
+    object-position: center
+}
+.Fishing    {     
+    width: 32px;
+    height: 32px;
+    border-radius: 50%; 
+    
+}
+.G-Profile  {     
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+.form   {
+    width: 60em;
+}
+.bar    {
+    width: 527px;
+    height: 34px;
+}
